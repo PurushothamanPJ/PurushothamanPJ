@@ -26,88 +26,90 @@
 
 <br clear="both">
 
-<h1 align="left">hey there 👋</h1>
+<h1 align="center">👋 Hi, I'm Purushothaman</h1>
+<h3 align="center">Electronics & Communication Engineer | IoT Developer | Backend,Data, AI Enthusiast</h3>
 
-###
+<p align="center">
+  💡 Passionate about building real-world systems that combine <b>Hardware + Software + Cloud + Data</b><br>
+  🚀 I love working with Arduino, Raspberry Pi, ESP32, Python, SQL, and backend technologies<br>
 
-<h3 align="left">👨‍💻  About Me</h3>
-
-###
-
-<p align="left">
-I'm Purushothaman, an Electronics & Communication Engineering student passionate about building real-world systems by combining <b>IoT + Embedded Systems + Backend + Cloud + AI</b>.<br><br>
-
-- 🔭 I’m currently working on: <b>IoT Smart Tracking System, Voice Assistant (Raspberry Pi 5), and Backend Projects</b><br>
-- 📚 I'm learning: <b>Backend Development (FastAPI/Node.js), SQL, DSA, LLM-based Voice AI</b><br>
-- ⚡ In my free time: I experiment with electronics, learn new tech, build mini projects, and watch films to refresh my creativity.
 </p>
 
-###
+---
 
-<h3 align="left">🛠 Languages and Tools</h3>
+## 🔧 Tech Stack
 
-###
-
+### **Languages**
 <div align="left">
-  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo" />
-  <img width="12" />
-
-  <!-- IoT / Embedded -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo" />
-  <img width="12" />
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-
-  <!-- Cloud / APIs -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql/sql logo" />
 </div>
 
-###
+### **IoT / Embedded**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
 
-<h3 align="left">🔥   My Stats :</h3>
+### **Software & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PurushothamanPJ&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
+## 🚀 Featured Projects
 
-###
+### 🛰️ **Vehicle Tracking System (IoT + GPS + GSM + Cloud)**
+- Real-time vehicle tracking using **GPS + SIM800L GSM module**
+- Sends live latitude & longitude to **ThingSpeak Cloud**
+- Custom **web dashboard** for tracking the vehicle in real-time
+- **Tech:** Arduino Nano, C/C++, ThingSpeak API, GSM Communication  
+🔗 *Repo Link:* _coming soon_
 
-<h3 align="left">🚀 Featured Projects</h3>
+---
 
-<ul>
-  <li><b>Smart Tracking System (IoT + GPS + GSM + Cloud)</b><br>
-      Live tracking using GPS + SIM800L, sends data to ThingSpeak, custom web dashboard.</li><br>
 
-  <li><b>Smart Bus Tracking System</b><br>
-      Live bus location + moving UI map + backend integration.</li><br>
+### 🔊 **Raspberry Pi Oscilloscope with Scoppy app**
+- Waveform generation using **Arduino Nano + MCP4725 DAC + Pi Pico**  
+- Displays waveforms on Scoppy mobile app  
+- Generates **sine, square, triangle** waveforms 
+🔗 *Repo Link:* _coming soon_
 
-  <li><b>Raspberry Pi Oscilloscope</b><br>
-      Waveform generation with Pi Pico + Arduino Nano + Scoppy.</li><br>
+---
 
-  <li><b>Offline Voice Assistant (Raspberry Pi 5)</b><br>
-      Whisper/Vosk STT + Piper TTS + Ollama LLM — fully offline chatbot.</li><br>
+### 🗣️ **Offline Voice Assistant – Raspberry Pi 5**
+- Whisper/Vosk STT + Piper TTS + Local LLM (Ollama)  
+- Fully offline voice chatbot  
+- Runs efficiently on Raspberry Pi 5 using Docker + Python  
+🔗 *Repo Link:* _coming soon_
 
-  <li><b>Bluetooth Robot Car</b><br>
-      Robot navigation using Arduino Mega + Compass module.</li><br>
+---
 
-  <li><b>DSA in C (Stacks, Queues, Trees, Linked Lists)</b></li>
-</ul>
 
-###
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PurushothamanPJ&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurushothamanPJ&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- 📩 Email: *purushoth1310@gmail.com*  
+- 🔗 LinkedIn: *https://www.linkedin.com/in/purushothamanpj/*  
+
+---
+
+### 🪙 **Gold Price Tracking System (API + Automation)**
+- Tracks real-time gold prices using a **public API / web scraping**  
+- Automatically updates and logs prices at intervals  
+- Displays clean, formatted output for analysis  
+- It is extended into a dashboard and notification alert system  
+🔗 *Repo Link:* _coming soon_
+
+
+⭐ **If you like my projects, feel free to star the repositories!**  
