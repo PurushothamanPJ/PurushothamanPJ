@@ -11,20 +11,7 @@
 ---
 
 ## 🔧 Tech Stack
-
-<h3 align="left">🛠 Languages</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-</div>
-
-
+<img src="https://img.shields.io/badge/-Python-1F2428?style=for-the-badge&logo=python&logoColor=3776AB" height="60" alt="Python" /> <img src="https://img.shields.io/badge/-C-1F2428?style=for-the-badge&logo=c&logoColor=A8B9CC" height="60" alt="C Language" /> <img src="https://img.shields.io/badge/-MySQL-1F2428?style=for-the-badge&logo=mysql&logoColor=4479A1" height="60" alt="MySQL" />
 
 ---
 
@@ -39,30 +26,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS Code-007ACC?logo=visualstudiocode&logoColor=white" />
-</span>
-
 ---
-
-## 🚀 Featured Projects
-
-### 🛰️ **Vehicle Tracking System (IoT + GPS + GSM + Cloud)**
-- Real-time vehicle tracking using **GPS + SIM800L GSM module**
-- Sends live latitude & longitude to **ThingSpeak Cloud**
-- Custom **web dashboard** for tracking the vehicle in real-time
-- **Tech:** Arduino Nano, C/C++, ThingSpeak API, GSM Communication  
-🔗 *Repo Link:* _coming soon_
-
----
-
-### 🔊 **Raspberry Pi Oscilloscope with Scoppy app**
-- Waveform generation using **Arduino Nano + MCP4725 DAC + Pi Pico**  
-- Displays waveforms on Scoppy mobile app  
-- Generates **sine, square, triangle** waveforms  
-🔗 *Repo Link:* _coming soon_
 
 ---
 
@@ -70,7 +34,7 @@
 - Whisper/Vosk STT + Piper TTS + Local LLM (Ollama)  
 - Fully offline voice chatbot  
 - Runs efficiently on Raspberry Pi 5 using Docker + Python  
-🔗 *Repo Link:* _coming soon_
+🔗 *Repo Link:* https://github.com/PurushothamanPJ/Language_translator
 
 ---
 
@@ -79,7 +43,7 @@
 - Automatically updates and logs prices at intervals  
 - Displays clean, formatted output for analysis  
 - Extended into a dashboard + notification alert system  
-🔗 *Repo Link:* _coming soon_
+🔗 *Repo Link:* https://github.com/PurushothamanPJ/Gold_rate_notifier
 
 ---
 
