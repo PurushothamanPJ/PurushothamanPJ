@@ -5,7 +5,7 @@
 
 <p align="center">
   💡 Passionate about building real-world systems that combine <b>Hardware + Software + Cloud + Data</b><br>
-  🚀 I love working with Arduino, Raspberry Pi, ESP32, Python, SQL, and backend technologies<br>
+  🚀 I love working with Arduino, Raspberry Pi, Python, SQL, and backend technologies<br>
 </p>
 
 ---
@@ -23,7 +23,6 @@
 
 ### **Software & Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
